@@ -11,32 +11,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https:///wildantf.github.io/extensions/admonition/</loc>
-     <lastmod>2019-09-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/extensions/codehilite/</loc>
-     <lastmod>2019-09-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/extensions/footnotes/</loc>
-     <lastmod>2019-09-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/extensions/metadata/</loc>
-     <lastmod>2019-09-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/extensions/permalinks/</loc>
-     <lastmod>2019-09-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/extensions/pymdown/</loc>
+     <loc>https:///wildantf.github.io/TP2/</loc>
      <lastmod>2019-09-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -72,6 +47,36 @@
     </url>
     <url>
      <loc>https:///wildantf.github.io/license/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/admonition/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/codehilite/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/footnotes/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/metadata/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/permalinks/</loc>
+     <lastmod>2019-09-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/extensions/pymdown/</loc>
      <lastmod>2019-09-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
