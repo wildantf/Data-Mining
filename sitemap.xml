@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+     <loc>https:///wildantf.github.io/Bio/</loc>
+     <lastmod>2019-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https:/wildantf.github.io/</loc>
-     <lastmod>2019-09-12</lastmod>
+     <lastmod>2019-09-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/TP1/</loc>
-     <lastmod>2019-09-12</lastmod>
+     <lastmod>2019-09-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/TP2/</loc>
-     <lastmod>2019-09-12</lastmod>
+     <lastmod>2019-09-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
