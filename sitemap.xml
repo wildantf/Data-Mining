@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https:///wildantf.github.io/Bio/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:/wildantf.github.io/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/TP1/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/TP2/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/TP3/</loc>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/TP4/</loc>
-     <lastmod>2019-11-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https:///wildantf.github.io/T4/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https:///wildantf.github.io/UTS/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https:///wildantf.github.io/TP5/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <loc>https:///wildantf.github.io/TP6/</loc>
+     <lastmod>2019-11-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https:///wildantf.github.io/TP7/</loc>
+     <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
